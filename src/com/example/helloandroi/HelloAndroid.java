@@ -63,7 +63,7 @@ public class HelloAndroid extends Activity {
         DemoJavaScriptInterface() {
         }
 
-        /**
+        /***
          * This is not called on the UI thread. Post a runnable to invoke
          * loadUrl on the UI thread.
          */
